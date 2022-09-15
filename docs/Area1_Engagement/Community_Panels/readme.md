@@ -2,7 +2,7 @@
 
 ## Announcements
 
-We are pleased to announce that our 2022 Transform to Open Science Community Panel was a rousing success! We were thrilled to see everyone and have such fantastic discussions. If you missed it, not to worry. You can find the list of panelists, recordings, and transcripts below.
+The next community panelist event is almost here. TOPS will host a hybrid community panel workshop on October 5 and 6, 2022 to discuss updates on TOPS activities and gather feedback. The TOPS team is looking forward to two days of engaging discussions, networking, and talking about our favorite subject: open science! Our invited panelists will attend in-person at the Jet Propulsion Laboratory (JPL) in Pasadena, California, and we will also provide a virtual option. We are also opening up this workshop to the public if they wish to attend. Please use this [form] (https://forms.gle/d6znfV2gVi5jTrYS6) to register. We look forward to seeing you in-person or virtually on October 5!
 
 ## Resources
 
